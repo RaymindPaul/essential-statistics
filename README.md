@@ -4,3 +4,4 @@
 
 ## ***Those of you who are familiar with previous editions of Essentials of Statistics for the Behavioral Sciences will notice that some changes have been made. In revising this text, our students have been foremost in our minds. Over the years, they have provided honest and useful feedback. Their hard work and perseverance has made our teaching most rewarding***
 
+<img src="https://github.com/RaymindPaul/essential-statistics/blob/main/dl.png"/>
