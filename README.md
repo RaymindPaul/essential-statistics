@@ -1,0 +1,6 @@
+# essential-statistics
+
+## ***Many students in the behavioral sciences view the required statistics course as an intimidating obstacle that has been placed in the middle of an otherwise interesting curriculum. They want to learn about human behavior—not about math and science. As a result, the statistics course is seen as irrelevant to their education and career goals. However, as long as the behavioral sciences are founded in science, a knowledge of statistics will be necessary. Statistical procedures provide researchers with objective and systematic methods for describing and interpreting their research results. Scientific research is the system that use to gather information, and statistics are the tools that we use to distill the information into sensible and justified conclusions. The goal  is not only to teach the methods of statistics but also to convey the basic principles of objectivity and logic that are essential for science and valuable for decision making in everyday life***
+
+## ***Those of you who are familiar with previous editions of Essentials of Statistics for the Behavioral Sciences will notice that some changes have been made. In revising this text, our students have been foremost in our minds. Over the years, they have provided honest and useful feedback. Their hard work and perseverance has made our teaching most rewarding***
+
